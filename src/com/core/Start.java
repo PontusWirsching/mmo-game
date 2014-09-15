@@ -13,7 +13,7 @@ public class Start extends LEngine {
 
 	@Override
 	public void update() {
-		
+		System.out.println("sugar tits");
 	}
 
 	@Override
